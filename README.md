@@ -1,5 +1,5 @@
 # Useless
-The World's Most Useless App - Submitted at Hackapalooza
+The World's Most Useless App - Submitted at Hackapalooza <br>
 <strong>Won Best Website Hack!</strong>
 
 APIs we used:
